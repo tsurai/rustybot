@@ -1,0 +1,7 @@
+# hidden files
+.*.lua
+.*.c
+
+# executables
+rustybot
+rustybot.exe
